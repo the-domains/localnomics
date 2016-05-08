@@ -1,0 +1,28 @@
+name: Localnomics
+favicon: null
+layout_spectrum: 0.8062766073271632
+typography_spectrum: 0.16362280631437898
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.290329753421247
+  lightness: 0.6765164115931839
+  saturation: 0.6213809032924473
+  rhythmicContrast: 0.45851453370414674
+purpose: []
