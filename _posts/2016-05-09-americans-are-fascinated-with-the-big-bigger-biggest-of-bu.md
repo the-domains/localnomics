@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Americans are fascinated with the big, bigger, biggest of business—the Zeitgeist of modern economies. From grand oil companies, chemical manufacturers, automakers, agri-behemoths, global banks, high tech giants and big steel, we've been enthralled with bigness. We marvel at the sheer size of buildings, offices around the world, acres of land, number of employees, billions of dollars in sales."
-datePublished: '2016-05-09T02:05:07.480Z'
-dateModified: '2016-05-08T22:14:22.921Z'
+datePublished: '2016-05-09T02:27:05.567Z'
+dateModified: '2016-05-09T02:27:05.048Z'
 title: ''
 author: []
 authors: []
