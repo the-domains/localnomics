@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: "Americans are fascinated with the big, bigger, biggest of business—the Zeitgeist of modern economies. From grand oil companies, chemical manufacturers, automakers, agri-behemoths, global banks, high tech giants and big steel, we've been enthralled with bigness. We marvel at the sheer size of buildings, offices around the world, acres of land, number of employees, billions of dollars in sales."
-datePublished: '2016-05-09T02:31:07.312Z'
-dateModified: '2016-05-09T02:27:59.319Z'
+datePublished: '2016-05-17T18:51:03.110Z'
+dateModified: '2016-05-17T18:50:59.472Z'
 title: ''
 author: []
 authors: []
@@ -34,7 +34,7 @@ The table below shows Sonoma County growth in population, number of establishmen
 
 The number of establishments (total number of locations for business and noncommercial organizations) grew at nearly 4 times the rate of growth of the general population.
 
-What's also occuring is that the average size establishments are getting smaller, even as they're more plentiful, and produce the lion-share of sales, even though per capita establishment production is smaller. Resident private-sector businesses with less than 100 employees contributed $15.3B or 65% of the $23.7B GCP for 2013\. That's about $3B more than they produced in 1995\.
+What's also ocurring is that the average size establishments are getting smaller, even as they're more plentiful, and produce the lion-share of sales, even though per capita establishment production is smaller. Resident private-sector businesses with less than 100 employees contributed $15.3B or 65% of the $23.7B GCP for 2013\. That's about $3B more than they produced in 1995\.
 
 Additionally, those Core establishments (Resident business with less than 100 employees serving the local market) represent 66% of all jobs.
 
@@ -43,9 +43,9 @@ A Resident business is one that is headquartered in Sonoma County or California.
 * Make up 93% of all establishments
 * Account for 84% of all jobs
 * Generate 86% of all sales
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c06e8b9-bf9d-4e6c-be95-5e6490bb1307.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/35319ba520f10629d588454ed3b714cdd8056d72.png)
 
-## GO LOCAL Provides Local Economic Deveoplment Marketing
+## GO LOCAL Provides Local Economic Development Marketing
 
 Sonoma County is not only strong on a local level, we're active in the global economy. Our local businesses benefit by exporting, and in turn so does the local economy. Nationwide among 3,221 Counties, Sonoma County ranks 11th in the Food Processing and Manufacturing sector. GO LOCAL's food and beverage sector program named Made Local, strives to increase the sales and market share of locally owned businesses in that sector, plus increase share for local retailers.
 
@@ -65,4 +65,14 @@ That's why Rupasingha's study is so important---it affirms an economic developme
 
 ### "The development of local entrepreneurship can lead to a diversified economic structure that will protect the local economy from being overly dependent on one firm or establishment, or one industry."
 
+There are programs in Sonoma County that support and encourage development of small businesses. Access to capital for startup and early stage expansion is the number one challenge for entrepreneurs. Micro-loans have provided some measure of relief, but not nearly to the degree that is needed to fulfill demand for funds. SBA loans have been useful for the next tier of needs, i.e. expansions. The Sonoma County Economic Development Board ([EDB][1]) and[Working Solutions][2](micro-loan lender) are collaborating to expand the pool of funds available.
+
+All in all, Sonoma County represents a healthy small business ecosystem primed for growth. Two things have to happen to make it fulfill that promise. Consumers (private, business, social and public spheres) have to choose local businesses first when making purchases. Secondly, resources to help businesses start and expand must be available and outreach to businesses successful.
+
+After access to capital for start ups and expansions, the most critical skill for entrepreneurs is cash flow management. Too much emphasis by well-meaning support organizations focus on instructing owners how to write business plans to get loans. While that is important it has little to do with actual operations driven by the daily availability of cash. Cash flow is king. Entrepreneurs, above all, have to learn to manage cash flow even in the face of mounting losses in profit and loss statements. More often than not, a young business has to grow its way out of cash flow pitfalls, which means sales and marketing become the most important activity to rally the employees around.
+
+That's why GO LOCAL has chosen to focus solely on marketing to drive higher sales for member businesses. That result provides capital (cash) from sales, and more importantly creates new customers while helping to retain existing ones.
+
 [0]: https://en.wikipedia.org/wiki/Peter_Drucker
+[1]: http://edb.sonoma-county.org/content.aspx?sid=1033&id=1786
+[2]: http://www.workingsolutions.org/
