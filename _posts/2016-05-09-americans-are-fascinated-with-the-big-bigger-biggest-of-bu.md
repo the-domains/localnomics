@@ -5,10 +5,11 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "Americans are fascinated with the big, bigger, biggest of business—the Zeitgeist of modern economies. From grand oil companies, chemical manufacturers, automakers, agri-behemoths, global banks, high tech giants and big steel, we've been enthralled with bigness. We marvel at the sheer size of buildings, offices around the world, acres of land, number of employees, billions of dollars in sales."
-datePublished: '2016-05-17T18:51:03.110Z'
-dateModified: '2016-05-17T18:50:59.472Z'
+datePublished: '2016-05-17T19:02:04.451Z'
+dateModified: '2016-05-17T18:53:48.541Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-09-americans-are-fascinated-with-the-big-bigger-biggest-of-bu.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-09-americans-are-fascinated-with-the-big-bigger-biggest-of-bu.md
 url: americans-are-fascinated-with-the-big-bigger-biggest-of-bu/index.html
 _type: Article
 
@@ -34,11 +34,11 @@ The table below shows Sonoma County growth in population, number of establishmen
 
 The number of establishments (total number of locations for business and noncommercial organizations) grew at nearly 4 times the rate of growth of the general population.
 
-What's also ocurring is that the average size establishments are getting smaller, even as they're more plentiful, and produce the lion-share of sales, even though per capita establishment production is smaller. Resident private-sector businesses with less than 100 employees contributed $15.3B or 65% of the $23.7B GCP for 2013\. That's about $3B more than they produced in 1995\.
+What's also occurring is that the average size establishments are getting smaller, even as they're more plentiful, and produce the lion-share of sales, even though per capita establishment production is smaller. Resident private-sector businesses with less than 100 employees contributed $15.3B or 65% of the $23.7B GCP for 2013\. That's about $3B more than they produced in 1995\.
 
 Additionally, those Core establishments (Resident business with less than 100 employees serving the local market) represent 66% of all jobs.
 
-A Resident business is one that is headquartered in Sonoma County or California.They fall into these categories based upon number of employees (see table to the right). In Sonoma County, Resident businesses:
+A Resident business is one that is headquartered in Sonoma County or California. They fall into these categories based upon number of employees (see table below). In Sonoma County, Resident businesses:
 
 * Make up 93% of all establishments
 * Account for 84% of all jobs
